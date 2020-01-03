@@ -5,7 +5,7 @@
 [E-mail me](mailto:contact@michaeljgrogan.com) |
 [LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
 
-## Speaking Engagements
+# Speaking Engagements
 
 As part of my machine learning journey, I have also spoken at major data science conferences and educational institutions, including:
 
