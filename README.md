@@ -10,7 +10,7 @@ As part of my machine learning journey, I have also spoken at major data science
 
 ![speaking-engagements](speaking-engagements.png)
 
-Here are some presentation samples:
+Feel free to take a look at some of my presentation samples - hope you find them useful!
 
 [Predicting Hotel Cancellations with Machine Learning: Classification and Time Series Analysis](https://www.youtube.com/watch?v=qQp8XsCSSIg)
 
