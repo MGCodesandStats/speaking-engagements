@@ -1,9 +1,11 @@
 ## Speaking Engagements
 
-As part of my machine learning journey, I have also spoken at major data science conferences, including:
+As part of my machine learning journey, I have also spoken at major data science conferences and educational institutions, including:
 
 - Big Data Vilnius
 - Nordic Data Science and Machine Learning Summit
+- Trinity College Dublin
+- University College Cork
 - World Machine Learning Summit Dublin
 
 ![speaking-engagements](speaking-engagements.png)
